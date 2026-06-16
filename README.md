@@ -1,16 +1,17 @@
 # Hi! I'm Denise Andrea 👋
 
+IT Support · Hospitality Tech · DAM + DAW student
+
 <table>
 <tr>
 <td valign="top" width="60%">
-
-IT Support · Hospitality Tech · DAM + DAW student
 
 ### About me
 
 I work in hospitality tech at Olala, supporting integrations across a multi-PMS stack: Guesty, Cloudbeds, Opera, SuiteOp, and more. 
 
 I'm studying a double degree in cross-platform app development (DAM) and web app development (DAW), after completing a vocational degree in networking and systems (SMIX). 
+
 Returning to web dev building real projects alongside my studies.
 
 ### What I'm working on
@@ -26,8 +27,6 @@ SQLite) with a public page and private admin panel.
 ![n8n](https://img.shields.io/badge/n8n-automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-DAM%20studies-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndreaszn&show_icons=true&hide_border=true&count_private=true&theme=dark)
-
 </td>
 <td valign="top" align="center" width="40%">
 
@@ -36,6 +35,8 @@ SQLite) with a public page and private admin panel.
 </td>
 </tr>
 </table>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndreaszn&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
 
 
