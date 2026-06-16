@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi! I'm Denise Andrea 👋
 
-<!--
-**ndreaszn/ndreaszn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support · Hospitality Tech · DAM + DAW student
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work in hospitality tech at Olala!, supporting integrations across a multi-PMS stack: Guesty, Cloudbeds, Opera, SuiteOP, and more.
+
+I'm studying a double degree in cross-platform app development (DAM) and web app development (DAW), after completing a lower vocational degree in networking and systems (SMIX).
+
+Returning to web dev building real projects alongside my studies.
+
+### What I'm working on
+
+- **Personal Link Dashboard:** full stack app (HTML/CSS/JS + Node.js + SQLite) with a public page and a private admin panel.
+
+### Stack
+
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-background-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-learning-339933?style=flat-square&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DAM%20studies-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndreaszn&show_icons=true&hide_border=true&count_private=true&theme=dark)
